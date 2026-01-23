@@ -1,25 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Álvaro%20Felipe&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Oracle%20Specialist%20|%20API%20Architect&descAlignY=55&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=800&lines=Thinking+about+smart+solutions+%F0%9F%A7%A0;Building+robust+APIs+%F0%9F%9A%80;Oracle+Database+Expert+%F0%9F%92%BE;ERP+Integration+Specialist+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/alvaroflp">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 ## 🧑‍💻 Sobre Mim
 
 ```typescript
@@ -142,22 +120,6 @@ const alvarofelipe = {
 </table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvaroflp&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
 
 **💙 Obrigado pela visita!**
 
