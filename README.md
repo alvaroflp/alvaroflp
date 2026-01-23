@@ -158,40 +158,52 @@ const alvarofelipe = {
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Álvaro Felipe))
-    Backend Development
-      APIs REST
-      Microservices
-      Design Patterns
-    Database
-      Oracle DBA
-      Performance Tuning
-      PL/SQL Advanced
-    Integrations
-      ERP Systems
-      TOTVS Protheus
-      Legacy Systems
-    Security
-      Data Encryption
-      API Authentication
-      Best Practices
+graph TD
+    A[Álvaro Felipe] --> B[Backend Architecture]
+    A --> C[Database Expert]
+    A --> D[Integration Specialist]
+    A --> E[Security & Performance]
+    
+    B --> B1[RESTful APIs]
+    B --> B2[Microservices]
+    B --> B3[Design Patterns]
+    B --> B4[Clean Code]
+    
+    C --> C1[Oracle DBA]
+    C --> C2[PL/SQL Advanced]
+    C --> C3[Query Optimization]
+    C --> C4[Database Design]
+    
+    D --> D1[ERP TOTVS]
+    D --> D2[Legacy Systems]
+    D --> D3[API Integration]
+    D --> D4[Data Migration]
+    
+    E --> E1[Encryption]
+    E --> E2[Authentication]
+    E --> E3[Performance Tuning]
+    E --> E4[Best Practices]
+    
+    style A fill:#3F9EF7,stroke:#2980b9,stroke-width:3px,color:#fff
+    style B fill:#EE1F35,stroke:#c41e3a,stroke-width:2px,color:#fff
+    style C fill:#F80000,stroke:#c40000,stroke-width:2px,color:#fff
+    style D fill:#4B0082,stroke:#2d004e,stroke-width:2px,color:#fff
+    style E fill:#FF6B6B,stroke:#cc5555,stroke-width:2px,color:#fff
 ```
 
 </div>
 
-### 💼 Principais Competências
+<br>
 
 <div align="center">
 
-| Área | Tecnologias & Habilidades |
-|------|---------------------------|
-| **🔧 Backend Development** | APIs REST, Horse Framework, Design Patterns, Clean Architecture |
-| **💾 Database Management** | Oracle DBA, PL/SQL, Query Optimization, Database Security |
-| **🔌 Integrações** | TOTVS Protheus/WinThor, REST/SOAP APIs, Legacy Systems |
-| **🖥️ Desktop Applications** | Delphi VCL/FMX, Multi-platform Development, Modern UI/UX |
-| **🔐 Security** | Data Encryption, API Authentication, Secure Coding Practices |
-| **📈 Performance** | Code Optimization, Database Tuning, System Architecture |
+### 🚀 O que me diferencia
+
+**💡 Visão Completa de Sistemas** • Desde a modelagem do banco de dados até a API final  
+**🔄 Especialista em Integrações** • Conectando sistemas legados com tecnologias modernas  
+**⚡ Performance-Driven** • Otimização constante de código e queries para máxima eficiência  
+**🛡️ Segurança em Primeiro Lugar** • Implementação de melhores práticas desde o início  
+**📚 Aprendizado Contínuo** • Sempre explorando novas tecnologias e metodologias  
 
 </div>
 
