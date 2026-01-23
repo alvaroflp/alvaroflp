@@ -26,10 +26,10 @@
 const alvarofelipe = {
     role: "Backend Developer",
     location: "Brasil 🇧🇷",
-    code: ["Delphi", "Pascal", "PL/SQL", "SQL"],
+    code: ["Delphi", "Pascal", "PL/SQL", "SQL", "Python"],
     technologies: {
         backend: {
-            framework: ["Horse", "DataSnap"],
+            framework: ["Horse", "DataSnap", "FastAPI", "Flask"],
             databases: ["Oracle", "PostgreSQL", "MySQL"]
         },
         frontend: {
@@ -40,39 +40,10 @@ const alvarofelipe = {
     },
     architecture: ["RESTful", "MVC", "Layered Architecture"],
     currentFocus: "Building scalable APIs and ERP integrations",
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "I turn coffee into code ☕ → 💻",
+    note: "Most of my Python work is in private repositories"
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend & APIs
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-4B0082?style=for-the-badge&logo=Pascal&logoColor=white)
-![Horse](https://img.shields.io/badge/Horse-FF6B6B?style=for-the-badge&logo=fastify&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database & PL/SQL
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Desktop Development
-![VCL](https://img.shields.io/badge/VCL-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![FireMonkey](https://img.shields.io/badge/FireMonkey-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -177,15 +148,6 @@ const alvarofelipe = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroflp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroflp&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvaroflp&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvaroflp&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
@@ -234,49 +196,6 @@ mindmap
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroflp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-
-### 💡 Estou sempre aberto a:
-✅ Novos projetos e desafios  
-✅ Colaborações em código aberto  
-✅ Discussões técnicas sobre arquitetura e performance  
-✅ Oportunidades profissionais  
-
-<br>
-
-📧 **Email:** [seu-email@email.com](mailto:seu-email@email.com)  
-💼 **LinkedIn:** [/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-📸 **Instagram:** [@alvaroflp](https://instagram.com/alvaroflp)  
-🌍 **Localização:** Brasil
-
-<br>
-
-### ⭐ Se você gostou dos meus projetos, considere dar uma estrela!
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/alvaroflp/alvaroflp/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <div align="center">
 
