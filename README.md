@@ -2,8 +2,6 @@
 
 APIs, ERP integrations and internal platforms — from database to interface.
 
-<img src="./assets/profile-card.svg" alt="alvaro.ts — focus: APIs, ERP integrations, Oracle & PL/SQL; stack: Python, FastAPI, React, TypeScript, Flutter, Delphi; infra: Linux, Proxmox, Docker; reverse engineering: Ghidra, x64dbg, Frida, Wireshark; building AFSIS" width="720">
-
 [![AFSIS](https://img.shields.io/badge/AFSIS-afsis.dev.br-F26B1D?style=for-the-badge)](https://afsis.dev.br)
 [![Organization](https://img.shields.io/badge/GitHub-afsis--dev-181717?style=for-the-badge&logo=github)](https://github.com/afsis-dev)
 [![E-mail](https://img.shields.io/badge/E--mail-contato%40afsis.dev.br-444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@afsis.dev.br)
