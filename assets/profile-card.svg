@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 820 290" width="820" height="290" role="img" aria-labelledby="t d">
+  <title id="t">alvaro.ts</title>
+  <desc id="d">Code card: focus on APIs, ERP integrations and Oracle &amp; PL/SQL; stack with Python, FastAPI, React, TypeScript, Flutter and Delphi; infrastructure with Linux, Proxmox and Docker; reverse engineering with Ghidra, x64dbg, Frida and Wireshark; building AFSIS; open to consulting and integrations.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; }
+    .k   { fill: #F26B1D; }
+    .v   { fill: #d2a8ff; }
+    .key { fill: #79c0ff; }
+    .s   { fill: #7ee787; }
+    .p   { fill: #c9d1d9; }
+    .tab { fill: #8b949e; font-size: 13px; }
+    @keyframes fade  { from { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .l { animation: fade .45s ease-out backwards; }
+    .c { animation: blink 1.1s steps(1) infinite; }
+  </style>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="819" height="289" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 40.5h819" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text class="tab" x="410" y="25" text-anchor="middle">alvaro.ts</text>
+  <rect x="0.5" y="38" width="819" height="3" fill="#F26B1D" opacity=".85"/>
+
+  <!-- code -->
+  <text class="l" x="32" y="78"  style="animation-delay:.1s"><tspan class="k">const</tspan> <tspan class="v">alvaro</tspan> <tspan class="p">= {</tspan></text>
+  <text class="l" x="56" y="104" style="animation-delay:.5s"><tspan class="key">focus</tspan><tspan class="p">: [</tspan><tspan class="s">"APIs"</tspan><tspan class="p">, </tspan><tspan class="s">"ERP integrations"</tspan><tspan class="p">, </tspan><tspan class="s">"Oracle &amp; PL/SQL"</tspan><tspan class="p">],</tspan></text>
+  <text class="l" x="56" y="130" style="animation-delay:.9s"><tspan class="key">stack</tspan><tspan class="p">: [</tspan><tspan class="s">"Python"</tspan><tspan class="p">, </tspan><tspan class="s">"FastAPI"</tspan><tspan class="p">, </tspan><tspan class="s">"React"</tspan><tspan class="p">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="p">, </tspan><tspan class="s">"Flutter"</tspan><tspan class="p">, </tspan><tspan class="s">"Delphi"</tspan><tspan class="p">],</tspan></text>
+  <text class="l" x="56" y="156" style="animation-delay:1.3s"><tspan class="key">infra</tspan><tspan class="p">: [</tspan><tspan class="s">"Linux"</tspan><tspan class="p">, </tspan><tspan class="s">"Proxmox"</tspan><tspan class="p">, </tspan><tspan class="s">"Docker"</tspan><tspan class="p">],</tspan></text>
+  <text class="l" x="56" y="182" style="animation-delay:1.7s"><tspan class="key">reverseEngineering</tspan><tspan class="p">: [</tspan><tspan class="s">"Ghidra"</tspan><tspan class="p">, </tspan><tspan class="s">"x64dbg"</tspan><tspan class="p">, </tspan><tspan class="s">"Frida"</tspan><tspan class="p">, </tspan><tspan class="s">"Wireshark"</tspan><tspan class="p">],</tspan></text>
+  <text class="l" x="56" y="208" style="animation-delay:2.1s"><tspan class="key">building</tspan><tspan class="p">: </tspan><tspan class="s">"AFSIS"</tspan><tspan class="p">,</tspan></text>
+  <text class="l" x="56" y="234" style="animation-delay:2.5s"><tspan class="key">openTo</tspan><tspan class="p">: [</tspan><tspan class="s">"consulting"</tspan><tspan class="p">, </tspan><tspan class="s">"integrations"</tspan><tspan class="p">],</tspan></text>
+  <text class="l" x="32" y="260" style="animation-delay:2.9s"><tspan class="p">};</tspan></text>
+  <rect class="c" x="58" y="246" width="9" height="18" fill="#F26B1D"/>
+</svg>
